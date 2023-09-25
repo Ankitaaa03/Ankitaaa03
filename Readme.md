@@ -21,9 +21,7 @@
 
 <!-- New Section -->
 
-👋 **Hello there!**
-
-I'm a passionate data science student with strong proficiency in Python, Numpy, Pandas, and SQL, particularly in handling intricate queries.
+**I'm a passionate data science student with strong proficiency in Python, Numpy, Pandas, and SQL, particularly in handling intricate queries.**
 
 🔭 I’m currently working on Data Cleaning , Data manipulation and visualization
 
