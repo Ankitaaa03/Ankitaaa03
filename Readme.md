@@ -25,31 +25,20 @@
 
 I'm a passionate data science student with a strong proficiency in Python, Numpy, Pandas, and SQL, particularly in handling intricate queries.
 
-📊 **Skills:**
+🔭 I’m currently working on Data Cleaning , Data manipulation and visualization
 
-I possess a rock-solid foundation in data analysis and manipulation, equipped with the ability to tackle complex datasets. My expertise extends to statistical analysis and machine learning, although I consider myself at an intermediate level in these domains.
+🌱 I’m currently learning Machine Learning.
 
-🎯 **Learning Objectives:**
+👯 I’m looking to collaborate on Business Problems.
 
-- My goals include:
+💬 Ask me about Microsoft SQL,Python,Microsoft Excel,Machine Learning.
 
-- Strengthening my SQL and database management skills.
-- Deepening my understanding of machine learning, deep learning, and practical applications.
-- Exploring NLP techniques for sentiment analysis and text generation.
-- Comprehending data warehousing strategies.
-- Investigating data pipeline development.
+📫 How to reach me ankita828113@gmail.com.
 
-🤝 **Collaboration:**
+⚡ Fun fact I get excited about discovering hidden patterns in data and turning them into actionable insights!
 
-I'm enthusiastic about collaborating with fellow data enthusiasts, researchers, and professionals in these areas while remaining eager to expand my knowledge and explore new concepts.
 
-🚀 **Project Showcase:**
 
-My repository features a collection of [`projects`](#projects) that showcase my data science skills and knowledge.
-
-✨ **Action-Oriented Approach:**
-
-If you are interested in contributing to the enhancement of my projects, have suggestions for improvement, or seek collaboration on data science-related endeavors, please feel free to reach out. I am dedicated to actively participating in collaborative efforts and mutual learning.
 
 </p>
 
