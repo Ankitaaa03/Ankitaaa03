@@ -10,16 +10,15 @@
 
 
 <!-- New Section -->
-<h2 dir="auto">
+<h2 align="center">
   <img src="https://github.com/Ankitaaa03/Project-1/assets/133629631/447f5eff-64aa-4c35-b119-cb59d4450114" width="25" style="max-width: 100%;">
-  <strong>About Me:</strong>
+  <strong>A passionate and Insightful Data Analyst.</strong>
 </h2>
 
 
 
 <!-- New Section -->
 
-**I'm a passionate data science student with strong proficiency in Python, Numpy, Pandas, and SQL, particularly in handling intricate queries.**
 
 🔭 I’m currently working on Data Cleaning , Data manipulation and visualization
 
