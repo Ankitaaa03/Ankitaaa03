@@ -10,9 +10,10 @@
 
 
 <!-- New Section -->
-<h2 style="text-align: center; color: blue; text-decoration: underline;">
-  A passionate and Insightful Data Analyst.
+<h2 style="text-align: center;">
+  <span style="color: blue; text-decoration: underline; font-weight: bold;">A passionate and Insightful Data Analyst.</span>
 </h2>
+
 
 
 
