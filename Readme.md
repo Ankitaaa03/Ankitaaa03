@@ -11,7 +11,6 @@
 
 <!-- New Section -->
 <h2 align="center">
-  <img src="https://github.com/Ankitaaa03/Project-1/assets/133629631/447f5eff-64aa-4c35-b119-cb59d4450114" width="25" style="max-width: 100%;">
   <strong>A passionate and Insightful Data Analyst.</strong>
 </h2>
 
