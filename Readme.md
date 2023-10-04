@@ -1,17 +1,17 @@
 <!-- New Section -->
-<h1 align="center">
-  Hi👋,I'm Ankita Keshri
-</h1>
 <p align="center"> 
   <img src="https://github.com/Ankitaaa03/Ankitaaa03/assets/133629631/0c51f931-aec0-41b0-b0ef-0bb5464957b3" style="display: inline-block; margin: 0 auto; width:800px;">
 </p>
+<h1 align="center">
+  Hi👋,I'm Ankita Keshri
+</h1>
 
 
 
 
 <!-- New Section -->
-<h2 style="text-align: center;">
-  <span style="color: blue; text-decoration: underline; font-weight: bold;">A passionate and Insightful Data Analyst.</span>
+<h2 align="center">
+  <strong>A passionate and Insightful Data Analyst.</strong>
 </h2>
 
 
