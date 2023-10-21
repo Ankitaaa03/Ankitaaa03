@@ -97,7 +97,7 @@
 <p align="center" dir="auto">
 <a href="https://www.linkedin.com/in/ankita-keshri-60686022a/" ><img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67"  height="50" ></a>
 <a href="mailto:ankita828113@gmail.com"><img src="https://camo.githubusercontent.com/e260052d80402ee1c3c47c1663259d0d952556860eec8eee4118a46b506f43a3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67"  height="50" ></a>
-<a href="https://www.hackerrank.com/" ><img src="https://user-images.githubusercontent.com/137817362/266239493-4e65699f-6e11-488f-9af9-f50b54fa5a3f.png"  height="50" ></a>
+
 </p>
 
 <br>
