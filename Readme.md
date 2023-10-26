@@ -21,18 +21,17 @@
 <!-- New Section -->
 
 
-🔭 I’m currently working on Data Cleaning , Data manipulation and visualization
+👋 Greetings!
 
-🌱 I’m currently learning Machine Learning.
+📚 I'm a data science enthusiast with a robust command of Python, Numpy, Pandas, and SQL.
 
-👯 I’m looking to collaborate on Business Problems.
+📊 Proficiencies: I possess a strong grasp of data analysis and manipulation, excel in statistical analysis, and have intermediate-level expertise in machine learning.
 
-💬 Ask me about Microsoft SQL,Python,Microsoft Excel,Machine Learning.
+📰 Storyteller: I craft reports and create data artifacts to narrate the tales hidden within data, facilitating informed decision-making.
 
-📫 How to reach me ankita828113@gmail.com.
+🎯 Learning Goals: I aim to refine my SQL and database management skills, deepen my knowledge in machine learning, explore NLP techniques, master data warehousing strategies, and investigate data pipeline development.
 
-⚡ Fun fact I get excited about discovering hidden patterns in data and turning them into actionable insights!
-
+🤝 I'm excited to collaborate with fellow data aficionados, researchers, and industry professionals.
 
 
 
